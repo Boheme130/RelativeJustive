@@ -1,7 +1,7 @@
 ## Relative Justice
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://www.collectorsweekly.com/articles/wp-content/uploads/2012/08/leyendecker3.jpg)
+![avatar](https://media.newyorker.com/photos/5c364dfe8c8f962cd419d6c6/16:9/w_1280,c_limit/190121_r33587.jpg)
 <br>
 <br>
 
