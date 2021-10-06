@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Relative Justice
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/RelativeJustive/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://www.collectorsweekly.com/articles/wp-content/uploads/2012/08/leyendecker3.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Relative Justice <br>
+作者：Gregory Ahse <br>
+评分：4.3/5 <br>
 
-### Markdown
+关键词：”我是来加入这个家，不是来拆散这个家“；家庭；失职家人
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这部书从头到尾无论是探案线还是Hazard, Somers的私人生活线都围绕着家庭展开，两条线都在探讨失责的家人对青少年的影响。格力高是高中老师，不像大部分YA小说，他笔下这种15岁左右的青少年都是一群jerk，可能这才更贴近现实的生活吧，格力高在公立学校工作，普通公校的青少年不少都像格力高笔下的人物一样沾染上各种恶习，而这些现象的背后往往是美国非常普遍的失职家庭。
 
-```markdown
-Syntax highlighted code block
+在结束了上一季的探案后，Hazard和Somers度过了几乎完美的蜜月，两人刚回到家就发现家门口一个少年在等他们。少年长得和Hazard年轻时几乎一模一样，他一开口就说自己是Hazard的儿子。Hazard简直不敢相信，他一没和女人做过，二没捐过精，怎么可能会人在家中坐，儿从天上来。两人当即做了DNA采集，Hazard第二天就送去检测。在整个过程中，Hazard表现得十分暴躁，当然他的”儿子“Colt也继承了他的性格相当暴躁，第一次见面过程就把Somers打翻在地。三人中最冷静的反而是毫无血缘关系的Somers, 他细心对待Colt，甚至察觉出他的困境，主动提出要把他留在家里过一段时间。
 
-# Header 1
-## Header 2
-### Header 3
+就这样在Hazard的反对中，Colt登堂入室住进了夫夫家里。这时一个报警传来，一个男子被谋杀在他自家的宅院里。尸体的田野周围只有被害者一个人的脚印，凶手的脚印却离奇消失，这成为了一宗不可能犯罪。在调查的过程中，几个家庭的亲子关系慢慢浮出水面，虽然每家的情况不同，但相通的是父母的失责。和被害者表面亲近的两个儿子举止怪异，和学校里的一个女生发生了扯不清的关系，而这个女生和被害者似乎还有性关系。随着案件的进展，原本被认为穷困的被害者竟然私底下有600万刀的加密货币，而知道这个秘密的就包括他的儿子和一个突然闯入他家偷走藏有货币的电脑的神秘女人。更可怕的是，几家的少年少女孩子在教堂一个青年牧师的带领下一直有聚会，而这个牧师表面禁欲，私底下也有着不可告人的秘密。
 
-- Bulleted
-- List
+另一边，Hazard和Colt的相处很不愉快，说实话Colt真的很🔪，他对Somers真的很过分，中间惹了Hazard好几次生气，几乎每次都靠Somers让两人冷静下来。Hazard心烦意乱的原因除了亲子鉴定结果悬而未出，其实还因为Colt让他回忆起了他的少年时期。Colt生母去世，无人照顾，靠自己一个人且活且过，他这种孑然一身的遭遇正是Hazard少年时期孤单一人的投射，Hazard当时虽然有父母，但他被生父送进同性恋治疗所后认清了家人的面目，发现自己并没有什么可以依靠[详情见县级市卷四]。
 
-1. Numbered
-2. List
+Hazard对这种无依无靠的少年最敏感，尤其是他还经历过县级市卷五的悲剧：当时一个少年Clyde也是被家人抛弃无依无靠，落入邪教的魔掌，在邪教二把手的教唆下信了基督复活的洗脑，被指引以犹大的身份去杀死头目基督来帮助基督超度，最终Hazard找到了真相想要拯救少年，但少年却发现自己杀死的基督永远不会复活，当着Hazard的面跳楼了。这件事对Hazard的影响深远，曾经让他一度不想要孩子，但也让他对这种类型的青少年最为心软。因此即便Colt经常表现得很过分，甚至有几次是真的闯出了非常严重的后果，Hazard还是一直在紧要关头挺身而出维护Colt. 即便在亲子鉴定结果没出之前，Hazard也爆发了护犊心态，在书的一半亲子鉴定结果出了以后(确实是父子)，Hazard更是父亲力爆表，即便Colt犯下了很多重罪也极力帮他洗清。Hazard和Somers决定接受这个新的家庭成员，在经过一番挣扎后，他们都发自内心尝试去接受Colt，给他最好的关爱。
 
-**Bold** and _Italic_ and `Code` text
+看到这里大家可能很奇怪，Hazard作为没捐过精、没和女人做过的Gay是怎么生出这个孩子的。我看到一半也很奇怪，但最终果然还是要相信科学的，这个儿子在接近结尾时终于揭露不是Hazard的，之前的DNA采集被Colt暗中做了手脚，检测的是Colt和他的生父的DNA，所以结果自然就是阳性。Colt在另外一个小镇，他母亲早就去世，生父酗酒，在生父又一次离家出走失踪后，他决定干一票大的，他之前就在报纸上注意到Hazard和自己长相酷似，还很佩服Hazard的探案经历，于是他策划了这一场掉包大戏想要骗过Hazard，让自己拥有一个真正的家庭(大哥你真想要一个家，为什么要对Hazard和Somers那么mean呢？)。当然最后Hazard真的对这种来自失责家庭的迷途少年心软，问Colt愿不愿意留下来。从此，县级市系列的主角又多一人了，Colt正式成为县级市新的一员。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/RelativeJustive/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这本李让我最心疼的还是Nico, 他前两季已经很惨了，各种男友每一个正常的，第一个男友是Pretty Pretty Boy案件的受害者，第二个是根本不爱他的Hazard，第三个是卷四的杀人犯检察官，之后又是一个想用完扔的服务生，最终在第二季结尾迎来新的谷底，他喜欢上了第二季最终大Boss养蜂人(当然Nico当时不知道)，交往几次后迅速被绑架沦为了要挟Hazard的人质。第二季中间Nico再次见到Hazard时，他即便强装笑脸，也在两人吃饭时忍不住落泪，自从两人分手后他很少再有情感上的安全感。之后他交往上的养蜂人是他很长一段时间第一个感觉安全的对象，结果直接绑架+囚禁+虐待三连杀，差点被打死然后在头颅里开个洞装成蜂巢给蜜蜂安家。从此Nico不再交往任何对象，他的学业和学业也出现了认同危机，博士论文难产，模特事业虽然一帆风顺但他却厌倦了自己不断被物化，在新的一季，他辞职了模特职业，应聘成为了Hazard私家侦探所得秘书。表面上他和Hazard嘻嘻哈哈不断打闹，直到结尾一切尘埃落定，大家一起在Hazard家里开Colt的收养派对，Hazard才察觉到了Nico潇洒快乐面罩下的悲伤和脆弱，当他想要问Nico更多问题时，Nico便找机会逃走了，全剧终。真的希望格力高在后面给Nico一个好一点的男人
